@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📄 Know about my experiences [www.linkedin.com/in/mahrukh-khan-195668236](www.linkedin.com/in/mahrukh-khan-195668236)
-
 - ⚡ Fun fact **I think i am funny**
 
 <h3 align="left">Connect with me:</h3>
